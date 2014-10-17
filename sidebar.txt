@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tbm:home|Door43 (tbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tbm|d43-tbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tbm/archive/master.zip|d43-tbm.zip]]
+
+**Recent Changes**
+{{changes>ns = tbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tbm|Ethnologue data]]
+
